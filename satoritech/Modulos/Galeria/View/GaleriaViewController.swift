@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class GaleriaViewController: UIViewController {
 
     lazy private var sampleLabel: UILabel = {
             let label = UILabel()
